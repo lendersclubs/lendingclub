@@ -1,0 +1,28 @@
+.Logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+form{
+    margin-left: 115px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+ }
+ .columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .column {
+    width: 30%;
+    padding: 20px;
+    border: 1px;
+  }
+  #XYZ {
+    width: 250px;
+    height: 12px;
+    font-size: 18px;
+    padding: 10px;
+  }
